@@ -1,0 +1,14 @@
+
+1.What is the difference between compile time and runtime?
+
+Compile time:Compile time is when the program is compiled
+variable used in compile time is made as static. Value is not easily changeable and if we change need to compile then run.
+say 
+foat percentage=65.5;
+
+
+
+Run time: runtime is when it executes
+variable used in compile time is made as dynamic. Value to the variable can be easily changed while pass it as run time arguments.
+float percentage=arg[0];
+ here arg[0] is the parameter passed to the main methid and used during run time
