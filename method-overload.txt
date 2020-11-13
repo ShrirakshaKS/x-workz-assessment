@@ -1,0 +1,15 @@
+8.Explain Method overloading with two example.
+If two or more methods have same name but different of signature and datatypes then method is called as method overloaded>
+In method overloading either multiple methods must be in different number of parameters or it must vary in data type it is used to perform.
+
+lets see this in program
+ Cinema & CinemaTester, 
+ watching is the method with difference in parameter called and printed the watching movie
+
+
+
+Clinic & ClinicalTest code
+operation is the multiple method with parameter difference. Here name of doctor as String and his experience in int etc.
+
+
+
