@@ -1,0 +1,12 @@
+Explain types of variables with example.
+Types of variable are local variable and class variable
+local variable declared and initialized within method and used inside the method only. It is not accessible outside the method.
+Parameter and argument also a variable and define differently in the method.
+where parameter is declared inside the parenthesis of method declaration 
+where as argument is passed value to the method when its is invoked.
+
+
+
+class variable declared at the class level. 
+It can be accessible by another class,
+if it made as public else only it can be read and cannot modify the value of variable.
