@@ -1,0 +1,12 @@
+4.Explain method, parameter, argument and return types with example
+
+ Method is an action with the set of reusable statements to perform task which is enclosed within the curly brace. shopwcase is one method.
+
+ Parameter is also a varibale which is passed when method is declared within the parenthesis to it. name of type String is parameter passed to the method showcase.
+ 
+Argument is also one type of variable which is passed when the method is invoked or called in the main method to perform the logic to it. Museum is the argument passed to the method showcase.
+
+return type: return is the keyword which is used to return the value from one method and use it in another method. name is returned from the class Presenter and displayed in the class Represent within the main method.
+
+
+It is presented in the class Represent and presenter
