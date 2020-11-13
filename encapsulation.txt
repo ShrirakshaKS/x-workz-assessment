@@ -1,0 +1,4 @@
+5.What is Encapsulation? Explain with an example
+Encapsulation is a mechanism of wrapping the data (variables) and code
+variables of a class will be hidden from other classes, and can be accessed through getter method.
+example in Payment and PaymentTester
